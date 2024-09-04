@@ -1,6 +1,6 @@
 # Landing Page - Imagens
 
-![](./image.png)
+![](./img/image.png)
 
 ---
 ## Sobre
