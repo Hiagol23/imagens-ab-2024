@@ -1,6 +1,6 @@
-# Imagens
+# Landing Page - Imagens
 
-![alt text](image.png)
+![](./image.png)
 
 ---
 ## Sobre
